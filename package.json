@@ -1,0 +1,34 @@
+{
+  "name": "aurorasy",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "start": "node basicServer.js"
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "ejs": "*",
+    "body-parser": "*",
+    "cookie-parser": "*",
+    "cookie-session": "*"
+  },
+  "description": "werewolves game demo based on licode",
+  "main": "basicSever.js",
+  "devDependencies": {
+    "coveralls": "^2.11.9",
+    "istanbul": "^0.4.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ging/werewolves-game.git"
+  },
+  "keywords": [
+    "werewolves"
+  ],
+  "author": "aurorasy",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ging/werewolves-game/issues"
+  },
+  "homepage": "https://github.com/ging/werewolves-game#readme"
+}

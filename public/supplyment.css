@@ -1,0 +1,13 @@
+.seer_block {
+    width: 256px;
+    height: 184px;
+    background-image: url("images/seer.jpg");
+    z-index: 9000;
+    position: relative;
+    background-size: 75% auto;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-color: #8B1A1A;
+    margin-top: 2px;
+    margin-left: 3px;
+}
